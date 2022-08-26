@@ -1,0 +1,22 @@
+.containerMsg{
+    max-width: 1400px;
+    margin: auto;
+    padding: 1em;
+    background-color: #4a12e68a;
+}
+
+.bubble{
+    background: rgba(0, 0, 0, 0.562);
+    color: white;
+    border: 1px solid black;
+    max-width: 450px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: auto;
+
+}
+
+.bubble-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}

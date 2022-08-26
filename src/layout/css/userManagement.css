@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+/* #aboveTheFoldContentPriv{
+    height: 20vh;
+    width: 100%;
+    background-size:cover ;
+    background-image: url("../images/nathan-anderson-kujXUuh1X0o-unsplash.jpg");
+    position: sticky;
+    top: 0;
+    
+
+} */
+
+#s2{
+    min-height: 50vh;
+    width: 100%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    background-color: #000000f3
+}
+
+#hfirst{
+    color: aliceblue;
+}
+.container2{
+    width:90%;
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.left2{
+    width: 30%;
+    height: 400px;
+    background:url(../images/pb1.png);
+    background-size:cover ;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+
+.right2{
+    width: 40%;
+    min-height: 100px;
+    background-color: #1d8b79;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+
+    /* um text container zu verschieben */
+    margin-left: -100px;
+}
+
+.right2:hover{
+    background-color: #28bda4;
+    transform: scale(1.1);
+    transition: ease-out 2s;
+}
+
+.right2 h1{
+font-size: 40px;
+font-weight: lighter;
+}
+.right2 p{
+    margin: 20px 0;
+    font-weight: 450;
+    line-height: 30px;
+}
+
+
+
+#s2{
+    min-height: 50vh;
+    width: 100%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    background-color: #000000f3
+}
+
+#hfirst{
+    color: aliceblue;
+}
+.container2{
+    width:90%;
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.left2{
+    width: 30%;
+    height: 400px;
+    background:url(../images/pb1.png);
+    background-size:cover ;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#s3{
+    min-height: 50vh;
+    width: 100%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    background-color: #000000f3
+}
+
+.container3{
+    width:90%;
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.right3{
+    width: 50%;
+    min-height: 100px;
+    background-color: #1d8b79;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: 30px;
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+
+    /* um text container zu verschieben */
+    
+}
+
+.right3:hover{
+    background-color: #28bda4;
+    transform: scale(1.1);
+    transition: ease-out 2s;
+}
+
+.right3 h1{
+font-size: 40px;
+font-weight: lighter;
+}
+.right3 p{
+    margin: 20px 0;
+    font-weight: 450;
+    line-height: 30px;
+}
+
+
+/*FORUM*/
+
+#s4{
+    min-height: 50vh;
+    width: 100%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    background-color: #000000f3
+}
+
+#hfirst{
+    color: aliceblue;
+}
+.container4{
+    width:90%;
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.left4{
+    width: 30%;
+    height: 400px;
+    background:url(../images/mjpg.jpg);
+    background-size:contain ;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+
+.right4{
+    width: 40%;
+    min-height: 100px;
+    background-color: #1d8b79;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+
+    /* um text container zu verschieben */
+    margin-left: -100px;
+}
+
+.right4:hover{
+    background-color: #28bda4;
+    transform: scale(1.1);
+    transition: ease-out 2s;
+}
+
+.right4 h1{
+font-size: 40px;
+font-weight: lighter;
+}
+.right4 p{
+    margin: 20px 0;
+    font-weight: 450;
+    line-height: 30px;
+}
+
+
