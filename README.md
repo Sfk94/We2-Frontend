@@ -2,8 +2,8 @@
 ### 'npm install'
 
 # Loging in
-User: admin
-Password: 123
+## User: admin
+## Password: 123
 
 # Getting Started with Create React App
 
