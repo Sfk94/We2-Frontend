@@ -1,3 +1,6 @@
+# Dependencies
+### 'npm install'
+
 # Loging in
 User: admin
 Password: 123
